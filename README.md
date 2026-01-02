@@ -40,7 +40,9 @@ This project demonstrates a **complete industry-level CI/CD pipeline** using **J
 
 ##  Project Structure
 
+
 ```
+Project is available on master branch of this repository
 EASY_CRUD/
 ├── backend/
 │   ├── Dockerfile
